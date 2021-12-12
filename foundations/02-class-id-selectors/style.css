@@ -1,0 +1,21 @@
+/* stylesheet.css */
+
+p {
+    background-color: rgb(241, 116, 102);
+    font-family: "Verdana", "Geneva", "Tahoma", sans-serif;
+}
+
+#num2 {
+    color: #00f;
+    font-size: 36px;
+}
+
+.num3 {
+    font-size: 24px;
+}
+
+#num4 {
+    background-color: rgb(187, 231, 142);
+    font-size: 24px;
+    font-weight: 700;
+}

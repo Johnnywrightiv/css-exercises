@@ -1,0 +1,13 @@
+/* style.css */
+
+div, p {
+    font-family: "Times New Roman";
+    color: white;
+}
+
+div {
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
